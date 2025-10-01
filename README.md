@@ -14,3 +14,5 @@ The US influenza season leads to increased patient loads, especially among vulne
 **Tools:**
 
 Excel (data cleaning, analysis, and visualization), PowerPoint and Tableau for visualization.
+# Tableau Dashboard
+Explore the interactive dashboars here: [View] (https://public.tableau.com/app/profile/maja.u/viz/InfluenzaProject2018/PreparingforNewInfluenzaSeason)
