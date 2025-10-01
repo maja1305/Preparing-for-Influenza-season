@@ -6,7 +6,11 @@ The US influenza season leads to increased patient loads, especially among vulne
 - When should temporary staff be sent to each state?
 - How many staff are needed in each state during peak influenza periods?
 # Data & Tools
-The analysis uses publicly available data to understand influenza trends and staffing needs across the US: 
+**Data:** The analysis uses publicly available data to understand influenza trends and staffing needs across the US: 
 
 - Influenza deaths by geography (Source: CDC).
 - Population data by geography, time, age, and gender (Source: US Census Bureau).
+
+**Tools:**
+
+Excel (data cleaning, analysis, and visualization), PowerPoint and Tableau for visualization.
